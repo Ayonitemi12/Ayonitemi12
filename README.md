@@ -8,7 +8,7 @@
 Ayonitemi12/Ayonitemi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h6> Ayodeji Emmanuel</h6>
+<h5> Ayodeji Emmanuel</h5>
 <hr/>
 <h4>Software Developer | Web Developer</h4>
 <hr/>
