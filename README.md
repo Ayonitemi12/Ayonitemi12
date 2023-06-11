@@ -8,11 +8,11 @@
 Ayonitemi12/Ayonitemi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Ayodeji Ogunleye  (Ayonitemi12)</h1>
+<h6> Ayodeji Emmanuel</h6>
 <hr/>
-<h3>Software Developer | Web Developer</h3>
+<h4>Software Developer | Web Developer</h4>
 <hr/>
-Hello! I'm Ayodeji Ogunleye, a student of Agric. Economics who is passionate and ready explore the world of tech. <br/>
+👋Hello! I'm Ayodeji Emmanuel, a student of Agric. Economics who is passionate and ready explore the world of tech. <br/>
 Fist of all, i always wonder what is the magic behind behind what i see on the the web ?<br/>
 little me then could not comprehend it, but many thought keep running throug my head,<br/>
 then i started to develop strong interest and self learning.......making good use of the opportunity i had (access to the internet) to explore myself.<br/>
