@@ -5,7 +5,7 @@
 # 💫 About Me:
 I am a self taught developer with python being the language I'm most comfortable in for now. Curiosity and my work experience has also exposed me to other languages like js/ts, dart, & php.<br><br>In my free time, I try to learn programming concepts that I lack not having a formal CS background, trying out programming languages new to me.
 
-###
+####
 <h1 align="center"> 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ogunleyeayodeji51@gmail.com) 
