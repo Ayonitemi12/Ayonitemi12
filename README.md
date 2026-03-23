@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width ="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s" />
+
 <h2 align="center">Hi 👋, I'm Ayodeji Ogunleye</h2>
 <h4 align="center">A passionate frontend developer || Nigeria</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayonitemi12&label=Profile%20views&color=0e75b6&style=flat" alt="ayonitemi12" /> </p>
