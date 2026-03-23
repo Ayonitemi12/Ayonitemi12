@@ -48,6 +48,9 @@ I am a self taught developer with python being the language I'm most comfortable
 [Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 </h4>
 
+<img align="center" alt="coding" width ="100%" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" />
+
+
 # 📊 GitHub Analytics:
 ![](https://github-readme-stats.vercel.app/api?username=Ayonitemi12&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayonitemi12&theme=aura&hide_border=false)<br/>
@@ -63,3 +66,4 @@ I am a self taught developer with python being the language I'm most comfortable
 [![](https://visitcount.itsvg.in/api?id=Ayonitemi12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
