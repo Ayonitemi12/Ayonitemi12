@@ -2,8 +2,22 @@
 <h4 align="center">A passionate frontend developer || Nigeria</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayonitemi12&label=Profile%20views&color=0e75b6&style=flat" alt="ayonitemi12" /> </p>
 
+
+- 🔭 I’m currently working on **On My Portfolio Project**
+
+- 🌱 I’m currently learning **ReactJs**
+
+- 👯 I’m looking to collaborate on **On Frontend Projects**
+
+- 🤝 I’m looking for help with **ReactJs**
+
+- 👨‍💻 All of my projects are available at [GitHub.com/Ayonitemi12](GitHub.com/Ayonitemi12)
+
+- 💬 Ask me about **Python-django**
+
+
 # 💫 About Me:
-I am a self taught developer with python being the language I'm most comfortable in for now. Curiosity and my work experience has also exposed me to other languages like js/ts, dart, & php.<br><br>In my free time, I try to learn programming concepts that I lack not having a formal CS background, trying out programming languages new to me.
+I am a self taught developer with python being the language I'm most comfortable in for now. Curiosity and my work experience has also exposed me to other languages like js/ts, html, & php.<br><br>In my free time, I try to learn programming concepts, trying out programming languages new to me.
 
 ####
 <h5 align="center"> 🌐 Socials:
