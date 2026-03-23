@@ -2,6 +2,7 @@
 <h4 align="center">A passionate frontend developer || Nigeria</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayonitemi12&label=Profile%20views&color=0e75b6&style=flat" alt="ayonitemi12" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 - 🔭 I’m currently working on **On My Portfolio Project**
 
