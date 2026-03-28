@@ -6,15 +6,15 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-- 🔭 I’m currently working on **On My Portfolio Project**
+- 🔭 I’m currently working on **My Portfolio Project**
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **On Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 🤝 I’m looking for help with **ReactJs**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/Ayonitemi12](GitHub.com/Ayonitemi12)
+- 👨‍💻 All of my projects are available at [Gihub](Github)
 
 - 💬 Ask me about **Python-django**
 
